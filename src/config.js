@@ -8,7 +8,7 @@ export default ({
   // 站点标题
   title: 'Camera',
   // 跳转链接
-  link: 'https://blog.sunguoqi.com',
+  link: 'https://blog.xxfer.cn',
   // 仓库地址
-  repo: 'https://github.com/sun0225SUN/camera',
+  repo: 'https://github.com/JJLibra/camera',
 })
